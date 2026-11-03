@@ -47,5 +47,6 @@ public enum ButtonType
     KEY_PMODE,
     KEY_ASPECT,
     KEY_AMBIENT,
-    KEY_FACTORY
+    KEY_FACTORY,
+    KEY_MORE
 }
